@@ -458,7 +458,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "Here there are somo of my projects at GitHub",
+    "Here there are some of my projects at GitHub",
   avatar_image_path: "projects_image.svg",
 };
 
