@@ -458,7 +458,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "Here there are some of my projects at GitHub",
+    "Here there are some of my projects at GitHub using HTML5, CSS3, JavaScript, React, Redux, Node JS, SQL & MongoDB.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -520,25 +520,25 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with using HTML5, CSS3, JavaScript, React, Redux, Node JS, SQL & MongoDB Projects.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://www.linkedin.com/in/kevin-villanueva-manrique-030653255/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Los Olivos, Lima, Lima, Perú - 15307",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://www.google.com.pe/maps/place/15307/@-11.9369408,-77.0953845,14z/data=!3m1!4b1!4m6!3m5!1s0x9105d1c220104221:0xcf91a8b6b7d2e3da!8m2!3d-11.9394425!4d-77.0765927!16s%2Fg%2F1hc21_1bh?hl=es",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Cell Phone",
+    subtitle: "+51 962 089 198",
   },
 };
 
