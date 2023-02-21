@@ -201,9 +201,9 @@ const competitiveSites = {
     },
     {
       siteName: "Henry",
-      iconifyClassname: "simple-icons:henry",
+      iconifyClassname: "fa:h-square",
       style: {
-        color: "yelow",
+        color: "yellow",
       },
       profileLink: "https://www.students.soyhenry.com/",
     },
@@ -465,7 +465,7 @@ const projectsHeader = {
 const publicationsHeader = {
   title: "Publications",
   description:
-    "I published a little about some projectS at my LinkedIn.",
+    "I published a little about some projects at my LinkedIn.",
   avatar_image_path: "projects_image.svg",
 };
 
