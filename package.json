@@ -1,13 +1,11 @@
 {
-  
   "name": "myportfolio",
-  "homepage": "https://github.com/Lordkev23",
   "version": "0.1.0",
   "scripts": {
-    "build": "react-scripts --openssl-legacy-provider build",
-    "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
-    "test": "react-scripts test"
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
