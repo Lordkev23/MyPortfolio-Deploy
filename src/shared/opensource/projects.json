@@ -19,6 +19,10 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
         }
     
       ]
@@ -92,6 +96,13 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }{
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
         }
       ]
     },
@@ -115,6 +126,10 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
         }
       ]
     },
@@ -137,6 +152,10 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
         }
       ]
     }
