@@ -100,7 +100,8 @@
         {
           "name": "React",
           "iconifyClass": "logos-react"
-        }{
+        },
+        {
           "name": "MongoDB",
           "iconifyClass": "logos-mongodb"
         }
