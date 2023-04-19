@@ -138,7 +138,7 @@
       "id": "R_kgDOGcPKSQ",
       "name": "Rick-Morty",
       "createdAt": "2022-10",
-      "url": "https://github.com/Lordkev23/Rick-Morty",
+      "url": "https://rick-morty-deploy.vercel.app/",
       "description": "⚙️ This is a personal project using an API about the famous television series 'Rick & Morty'.",
       "isFork": false,
       "languages": [
