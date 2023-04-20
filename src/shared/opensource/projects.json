@@ -131,6 +131,14 @@
         {
           "name": "React",
           "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "logos-express"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-express"
         }
       ]
     },
