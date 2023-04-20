@@ -135,10 +135,6 @@
         {
           "name": "Express",
           "iconifyClass": "logos-express"
-        },
-        {
-          "name": "PostgreSQL",
-          "iconifyClass": "logos-express"
         }
       ]
     },
