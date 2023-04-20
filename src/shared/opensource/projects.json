@@ -133,8 +133,16 @@
           "iconifyClass": "logos-react"
         },
         {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
           "name": "Express",
           "iconifyClass": "logos-express"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
         }
       ]
     },
