@@ -31,7 +31,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "MovieWebApp",
       "createdAt": "2023-03",
-      "url": "https://github.com/Lordkev23/MovieWebApp",
+      "url": "https://movie-web-app-deploy.vercel.app/",
       "description": "🤓 This is an application that allows you to see a list of movies, which can be edited and deleted, among other features..",
       "isFork": false,
       "languages": [
@@ -127,7 +127,6 @@
           "name": "CSS",
           "iconifyClass": "logos-css-3"
         },
-        
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
